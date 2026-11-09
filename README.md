@@ -1,4 +1,4 @@
 # project-evil
 
-Nome: Projeto Hospitalar
+Nome: Placar Steam
 Participantes: Breno Silva, Deiwson Silva, Francisco Andrade, Kelvis Almeida
